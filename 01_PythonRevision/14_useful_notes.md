@@ -10,4 +10,4 @@
 - check out all substrings and all subsequences (2^n possible for a str)
 - dictionary comprehension exists 'square_dict = {x: x**2 for x in range(10)}'
 - use lamdba functions for small ones 'add = lambda x, y: x + y'
-
+- use exceptions to print value for checking its format "raise Exception(repr((n, arr)))"
